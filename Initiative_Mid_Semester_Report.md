@@ -36,7 +36,7 @@ The primary stakeholders are GT researchers who would use this guide and the PAC
 
 ## What processes have you documented or begun documenting to ensure the sustainability of your initiative? Where are you hosting this procedure? What additional documentation do you plan to complete?
 
-The guide itself is the primary documentation artifact and is being developed in a dedicated Claude project, with version history maintained across sessions. The final deliverable will be a polished, shareable document. For sustainability, the guide is structured so individual sections (e.g., PACE workflow, AWS workflow) can be updated independently as platforms evolve, without requiring a full rewrite. Additional documentation I plan to complete includes a maintenance checklist noting which sections are most likely to need updates (e.g., AWS pricing, PACE QoS levels) and suggested review cadence.
+The guide itself is the primary documentation. The final deliverable will be a polished, shareable document. For sustainability, the guide is structured so individual sections (e.g., PACE workflow, AWS workflow) can be updated independently as platforms evolve, without requiring a full rewrite. Additional documentation I plan to complete includes a maintenance checklist noting which sections are most likely to need updates (e.g., AWS pricing, PACE QoS levels) and suggested review cadence.
 
 ## How are you currently measuring progress toward your goals? What indicators of success or challenges have you identified so far?
 
